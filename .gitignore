@@ -1,0 +1,14 @@
+# Compiled binary files
+bin/
+
+# Dependency directories (ensure dependencies are re-fetched on new machines)
+vendor/
+
+# Environment variable file
+.env
+
+# macOS specific files/directories
+.DS_Store
+
+# Windows specific files/directories
+Thumbs.db
